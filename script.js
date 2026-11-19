@@ -455,7 +455,7 @@ function renderAnalytics(apps) {
             type: 'bar',
             data: {
                 labels: keys,
-                datasets: [{ label: 'Applications', data: keys.map(k => monthly[k]), backgroundColor: '#4C1050' }]
+                datasets: [{ label: 'Applications', data: keys.map(k => monthly[k]), backgroundColor: '#ffff00' }]
             },
             options: {
                 responsive: true,
