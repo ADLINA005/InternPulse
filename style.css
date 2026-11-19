@@ -1,9 +1,10 @@
 :root {
-    --bg: #93b751d2;         /*warnadasar*/
-    --sd: #435709;          /*bayanggelap*/
-    --sl: #fbfbfb;          /*bayangcerah*/
-    --text: #07090e;
-    --accent: #4C1050;
+   
+--bg: #9cb376;          /* Soft muted sage green (solid 6-digit) */
+  --sd: #4f632e;          /* Deep olive shadow & section borders */
+  --sl: #eef4e4;          /* Warm pale sage highlight */
+  --text: #141a10;        /* Deep forest-charcoal text */
+  --accent: #2d5a27;
 
     --raised: 8px 8px 16px var(--sd), -8px -8px 16px var(--sl);
     --raised-sm: 4px 4px 8px var(--sd), -4px -4px 8px var(--sl);
